@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dipak-Bariya.
-- 👀 I’m interested in Data Scientist.
-- 🌱 I’m currently learning Amazon Web Services.
-- 💞️ I’m looking to collaborate on deep learning.
-- 📫 How to reach me dipak@htree.plus
+- 👀 I have interest in Data Scientist, Machine Learning & Deep Learning.
+- 🌱 I’m currently learning different technolgies in this techo world.
+- 💞️ I’m looking forward to collaborate with you on various topics.
+- 📫 How to reach me: dipak@htree.plus
 
 <!---
 Dipak-Htree/Dipak-Htree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
